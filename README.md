@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Donshaji
 - 👀 I’m interested in coding, 3d modeling and graphics
 - 🌱 I’m currently learning c programing, java and Open shading language
-- 💞️ I’m looking to collaborate on ....
+- 💞️ I’m looking to collaborate on any Design or Coding projects
 - 📫 How to reach me donpattamana@gmail.com
 
 <!---
