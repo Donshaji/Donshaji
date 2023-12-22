@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Don Shaji</h1>
 <h3 align="center">Passionate UI/UX Designer & Frontend Developer from India</h3>
 
+- My Portfoli Website [donpattamana](https://donpattamana.netlify.app/)
+
 - 🌱 Currently learning **Node.js and React.js**
 
 - 👯 Open to collaboration on **Pothole Detection System**
@@ -9,7 +11,7 @@
 
 - 📫 Reach me at **donpattamana@gmail.com**
 
-- 📄 Explore my experiences on [Google Drive](https://drive.google.com/file/d/1Ae5oBnSPvDFfqaDGnjtlmI15x9dUL9aP/view?usp=sharing)
+- 📄 Explore my experiences on [Resume](https://drive.google.com/file/d/1Ae5oBnSPvDFfqaDGnjtlmI15x9dUL9aP/view?usp=sharing)
 
 - ⚡ Fun fact: **I believe in the power of creativity**
 
