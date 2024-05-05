@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **donpattamana@gmail.com**
 
-- 📄 Explore my experiences on [Resume](https://drive.google.com/file/d/1Ae5oBnSPvDFfqaDGnjtlmI15x9dUL9aP/view?usp=sharing)
+- 📄 Explore my experiences on [Resume](https://drive.google.com/file/d/1pyYHZr8mfDWFkJt9H0HXxaRypkUsrTYt/view?usp=sharing)
 
 - ⚡ Fun fact: **I believe in the power of creativity**
 
